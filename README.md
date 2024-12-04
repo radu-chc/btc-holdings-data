@@ -1,4 +1,4 @@
-# mstr-tracker-data
+# btc-holdings-data
 
 This data should constitute the source of truth for Corporate / ETF holdings of Bitcoin.
 
