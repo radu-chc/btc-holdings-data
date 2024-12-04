@@ -1,5 +1,5 @@
 Company,Country,Ticker,Bitcoin_Holdings
-MicroStrategy,USA,MSTR,402100 
+MicroStrategy,USA,MSTR,402100
 Marathon Digital,USA,MARA,34794
 Galaxy Digital,Canada,BPRHF,15449
 Riot Platforms,USA,RIOT,10928
@@ -7,8 +7,8 @@ Tesla,USA,TSLA,9720
 Coinbase,USA,COIN,9480
 Hut 8,USA,HUT,9110
 Cleanpark,USA,CLSK,8701
-Block (Square),USA,SQ,8363
-Boyaa,Hong Kong,0434.HK,3183
+"Block (Square)",USA,SQ,8363
+Boyaa,"Hong Kong",0434.HK,3183
 Bitcoin Group SE,Germany,BTGGF,3114
 Hive Digital,Canada,HIVE,2624
 Exodus,USA,EXOD,1990
@@ -27,7 +27,7 @@ Alliance Resource Partners,USA,ARLP,425
 Samara Asset Group,Malta,SRAG,525
 MercadoLibre,Argentina,MELI,413
 DMG Blockchain,Canada,DMGI,399
-Net Holding A. Sirketi,Turkey,3350.T,352
+"Net Holding A. Sirketi",Turkey,3350.T,352
 Neptune Digital Assets,Canada,NPPTF,349
 Jasmine International,Thailand,JAS.BK,334
 Advanced Bitcoin Tech,Germany,ABT,254
@@ -40,7 +40,7 @@ LQwD FinTech,Canada,LQWDF,151
 Banxa Holdings,Australia,BNXAF,136
 DigitalX,Australia,DGGXF,115
 BIGG Digital Assets,Canada,BBKCF,101
-Coinshares Int'l,Channel Isl,CS.ST,93
+"Coinshares Int'l","Channel Isl",CS.ST,93
 BTCS Inc,USA,BTCS,90
 Digihost Technology,Canada,DGHI,81
 Canada Computational,Canada,SATO,68
@@ -48,7 +48,7 @@ Frmo,USA,FRMO,63
 Mogo Inc.,Canada,MOGO,50
 Cathedra Bitcoin,Canada,CBIT,48
 WonderFi,Canada,WNDR,47
-Linekong Interactive,Hong Kong,8267.HK,44
+Linekong Interactive,"Hong Kong",8267.HK,44
 Sato Technologies,USA,CCPUF,43
 OneMedNet,USA,ONMD,27
 Metromile,USA,MILE,25
@@ -60,25 +60,25 @@ The Blockchain Group,France,ALTBG,15
 Globant,Argentina,GLOB,10
 Jetking,India,JETKINGQ,5
 Stronghold Digital,USA,SDIG,4
-Rumble,USA,RUM,Announced plan
-Cosmos Health,Greece,COSM,Announced plan
-Bitcoin Depot,USA,BTM,Announced plan
-LQR House,USA,LQR,Announced plan
-Jiva Technologies,,Announced plan
-Hoth Therapeutics,USA,HOTH,Announced plan
-Thumbzup Media,USA,TZUP,Announced plan
-Acurx Pharmaceuticals,USA,ACXP,Announced plan
-SOS Ltd - $50 million,China,SOS,Announced plan
-Enlivex,Israel,ENLV,Announced plan
-Iris Energy,Australia,IREN,BTC miner
-Bitdeer,Hong Kong,BTDR,BTC miner
-Greenidge,USA,GREE,BTC miner
-Soluna Holdings,USA,SLNH,BTC miner
-Bit Mining,USA,BTCM,BTC miner
-Griid,USA,GRDI,BTC miner
-Mawson Infrastructure,USA,MIGI,BTC miner
-Northern Data AG,Germany,NB2,BTC miner
-Applied Digital,USA,APLD,BTC miner
-Integrated Ventures,USA,INTV,BTC miner
-TeraWulf,USA,WULF,BTC miner
-Deutsche Telekom,Germany, - ,BTC miner
+Rumble,USA,RUM,"Announced plan"
+Cosmos Health,Greece,COSM,"Announced plan"
+Bitcoin Depot,USA,BTM,"Announced plan"
+LQR House,USA,LQR,"Announced plan"
+Jiva Technologies,,"Announced plan"
+Hoth Therapeutics,USA,HOTH,"Announced plan"
+Thumbzup Media,USA,TZUP,"Announced plan"
+Acurx Pharmaceuticals,USA,ACXP,"Announced plan"
+"SOS Ltd - $50 million",China,SOS,"Announced plan"
+Enlivex,Israel,ENLV,"Announced plan"
+Iris Energy,Australia,IREN,"BTC miner"
+Bitdeer,"Hong Kong",BTDR,"BTC miner"
+Greenidge,USA,GREE,"BTC miner"
+Soluna Holdings,USA,SLNH,"BTC miner"
+Bit Mining,USA,BTCM,"BTC miner"
+Griid,USA,GRDI,"BTC miner"
+Mawson Infrastructure,USA,MIGI,"BTC miner"
+Northern Data AG,Germany,NB2,"BTC miner"
+Applied Digital,USA,APLD,"BTC miner"
+Integrated Ventures,USA,INTV,"BTC miner"
+TeraWulf,USA,WULF,"BTC miner"
+Deutsche Telekom,Germany,-,"BTC miner"
