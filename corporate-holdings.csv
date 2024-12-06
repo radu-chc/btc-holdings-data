@@ -1,14 +1,14 @@
-Company,Country,Ticker,Bitcoin_Holdings
+Company,Country,Ticker,Number of Bitcoin
 MicroStrategy,USA,MSTR,402100
 Marathon Digital,USA,MARA,34959
-Galaxy Digital,Canada,BPRHF,15449
+Galaxy Digital,Canada,GLXY,15449
 Riot Platforms,USA,RIOT,11425
 Tesla,USA,TSLA,9720
 Coinbase,USA,COIN,9480
-Hut 8,USA,HUT,9297
-Cleanpark,USA,CLSK,9110
-"Block (Square)",USA,SQ,8363
-Boyaa,"Hong Kong",0434.HK,3183
+Clearpark,USA,CLSK,9297
+Hut 8,USA,HUT,9110
+Block (Square),USA,SQ,8033
+Boyaa,Hong Kong,0434.HK,3183
 Bitcoin Group SE,Germany,BTGGF,3114
 Hive Digital,Canada,HIVE,2624
 Exodus,USA,EXOD,1990
@@ -19,38 +19,38 @@ Canaan,Singapore,CAN,1231
 Aker ASA,Norway,AKER,1170
 Brooker Group,Thailand,BROOK,1150
 Metaplanet,Japan,3350,1142
-Fold,USA,FLD,1000
+Fold,USA,FOLD,1000
 Meitu,China,HKD,941
 Bitfarms,Canada,BITF,870
 Bit Digital,USA,BTBT,781
 Samara Asset Group,Malta,SRAG,525
-Bitdeer,"Hong Kong",BTDR, 443
-Alliance Resource Partners,USA,ARLP,425
+Bitdeer,Singapore,BTDR,443
+Alliance Resource Partne,USA,ARLP,425
+Mercadolibre,Argentina,MELI,413
 DMG Blockchain,Canada,DMGI,423
-MercadoLibre,Argentina,MELI,413
-"Net Holding A. Sirketi",Turkey,3350.T,352
+Net Holding A. Sirketi,Turkey,,352
 Neptune Digital Assets,Canada,NPPTF,350
 Jasmine International,Thailand,JAS.BK,334
 Advanced Bitcoin Tech,Germany,ABT,254
 Phunware,USA,PHUN,227
 Remixpoint,Japan,3825.JP,215
 DEFI Technologies,USA,DEFI,204
-Genius Group,USA,GNS,172
-LQwD FinTech,Canada,LQWDF,151
+Genius Group,Singapore,GNS,172
+LQWD FinTech,Canada,LQWDF,151
 Banxa Holdings,Australia,BNXAF,136
 DigitalX,Australia,DGGXF,115
 BIGG Digital Assets,Canada,BBKCF,101
-"Coinshares Int'l","Channel Isl",CS.ST,93
+Coinshares Int'l,Channel Isl,CS.ST,93
 BTCS Inc,USA,BTCS,90
 Digihost Technology,Canada,DGHI,81
 Winland Holdings,USA,WELX,77
 LM Funding America,USA,LMFA,72
 Canada Computational,Canada,SATO,68
-Frmo,USA,FRMO,63
+FrMO,USA,FRMO,63
 Mogo Inc.,Canada,MOGO,50
-Cathedra Bitcoin,Canada,CBIT,48
+Cathdra Bitcoin,Canada,CBIT,48
 WonderFi,Canada,WNDR,47
-Linekong Interactive,"Hong Kong",8267.HK,44
+Linekong Interactive,Hong Kong,8267.HK,44
 Sato Technologies,USA,CCPUF,43
 OneMedNet,USA,ONMD,27
 Metromile,USA,MILE,25
@@ -58,25 +58,4 @@ The Blockchain Group,France,ALTBG,25
 Vinanz,UK,BTC.AQ,24
 Kontrol Technologies,Canada,KNR,15
 NameSilo,Canada,URL.CN,14
-Jetking,India,JETKINGQ,12
-Rumble,USA,RUM,"Announced plan"
-Cosmos Health,Greece,COSM,"Announced plan"
-Bitcoin Depot,USA,BTM,"Announced plan"
-LQR House,USA,LQR,"Announced plan"
-Jiva Technologies,Canada,,"Announced plan"
-Hoth Therapeutics,USA,HOTH,"Announced plan"
-Thumbzup Media,USA,TZUP,"Announced plan"
-Acurx Pharmaceuticals,USA,ACXP,"Announced plan"
-"SOS Ltd - $50 million",China,SOS,"Announced plan"
-Enlivex,Israel,ENLV,"Announced plan"
-Iris Energy,Australia,IREN,"BTC miner"
-Greenidge,USA,GREE,"BTC miner"
-Soluna Holdings,USA,SLNH,"BTC miner"
-Bit Mining,USA,BTCM,"BTC miner"
-Griid,USA,GRDI,"BTC miner"
-Mawson Infrastructure,USA,MIGI,"BTC miner"
-Northern Data AG,Germany,NB2,"BTC miner"
-Applied Digital,USA,APLD,"BTC miner"
-Integrated Ventures,USA,INTV,"BTC miner"
-TeraWulf,USA,WULF,"BTC miner"
-Deutsche Telekom,Germany,-,"BTC miner"
+Jetking,India,JETKING,12
