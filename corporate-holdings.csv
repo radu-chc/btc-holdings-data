@@ -1,71 +1,76 @@
 Company,Country,Ticker,Number of Bitcoin
-MicroStrategy,USA,MSTR,528185
-Marathon Digital,USA,MARA,44894
-Riot Platforms,USA,RIOT,17722
-Hut 8,Canada,HUT,10171
-CleanSpark,USA,CLSK,10097
-Tesla,USA,TSLA,9720
-Coinbase,USA,COIN,9480
-Block (Square),USA,SQ,8363
-Galaxy Digital,Canada,GLXY,5400
-Boya,China,0434.HK,3183
-Bitcoin Group SE,Germany,BTGGF,3114
-Hive Digital,Canada,HIVE,2805
-Semler Scientific,USA,SMLR,2321
-Exodus,USA,EXOD,1900
-Metalpha,Japan,3350,1761
-BitfUFU,China,FUFU,1720
+
+Strategy,Unknown,MSTR,528185
+Marathon Digital,Unknown,MARA,47700
+Riot Platforms,Unknown,RIOT,19223
+Cleanspark,Unknown,CLSK,11869
+Tesla,Unknown,TSLA,11509
+Hut 8,Unknown,HUT,10264
+Coinbase,Unknown,COIN,9480
+Galaxy Digital,Canada,GLXY,8994
+Block (Square),Unknown,XYX,8485
+Metaplanet,Japan,3350,4206
+Bitcoin Group SE,Germany,BTGGF,3605
+Boyaa,China,0434.HK,3350
+Semler Scientific,Unknown,SMLR,3192
+Cango,Unknown,CANG,2475
+Hive Digital,Unknown,HIVE,2201
+Exodus,Unknown,EXOD,1900
+BitFuFu,Unknown,FUFU,1800
 Nexon,Japan,NEXOF,1717
-Cipher Mining,USA,CIFR,1344
-Canaan,China,CAN,1131
-Aker ASA,Norway,AKER,1170
-Brooker Group,USA,BROOK,1150
-Fold,USA,FLDD,1060
-Bitfarms,Canada,BITF,934
-Cango,China,CANG,934
-Bit Digital,USA,BTBT,742
-SOS Ltd,China,SOS,675
-Btideer,Singapore,BTDR,667
-Samara Asset Group,USA,SRAG,525
-KULR Technology Group,USA,KULR,510
-Ming Sing Group,Hong Kong,MSW,500
-Alliance Resource Partners,USA,ARLP,457
+Fold,Unknown,FLD,1485
+Canaan,China,CAN,1355
+Bitdeer,Unknown,BTDR,1173
+Broker Group,Canada,BITF,1150
+Bitfarms,Canada,BITF,1093
+Cipher Mining,Unknown,CIFR,1034
+Core Scientific,Unknown,CORZ,1001
+Ming Shing Group,Unknown,MSW,833
+Bit Digital,Unknown,BTBT,769
+Aker ASA,Norway,AKER,754
+SOS,Unknown,SOS,675
+KULR Technology,Unknown,KULR,668
+The Block Group,Unknown,ALTBG,620
+Remixpoint,Japan,3825.JP,616
+Samara Asset Group,Unknown,SRAG,525
+Jasmine International,Thailand,JAS.BK,506
+DMG Blockchain Partners,Canada,DMGI,458
+Alliance Resource Partners,Unknown,ARLP,457
+Genius Group,Unknown,GNS,440
 MercadoLibre,Argentina,MELI,413
-DMG Blockchain,Canada,DMGI,406
-Genius Group,Singapore,GNS,372
-Nano Labs,USA,NA,360
+Nano Labs,Unknown,NA,400
+Neptune Digital Assets,Canada,NPTF,376
 Net Holding A. Sirketi,Turkey,3350.T,352
-Core Scientific,USA,CORZ,351
-Neptune Digital Assets,Canada,NPPTF,350
-Jasmy International,Japan,JASX.BK,334
-Remixpoint,Japan,3825.JP,333
 Advanced Bitcoin Tech,Germany,ABT,254
-WeMade,South Korea,112040.KQ,223
-DEFT Technologies,USA,DEFTDF,204
-LQWD FinTech,Canada,LQWDF,153
-LM Funding America,USA,LMFA,142
-Banxa Holdings,Australia,BNXF,136
+weMade,South Korea,112040.KQ,223
+DeFi Technologies,Unknown,DEFTF,209
+Rumble,Unknown,RUM,188
+LM Funding America,Unknown,LMFA,166
+LQwD FinTech,Canada,LQWDF,161
+Neowiz Holdings,South Korea,042420.KQ,123
 DigitalX,Australia,DGGXF,115
 BIGG Digital Assets,Canada,BBKCF,101
-Coinsshares Intl,UK,CS.ST,93
-BTCS Inc,USA,BTCS,90
-Digihost Technology,Canada,DGHI,81
+Bitcoin Depot,Unknown,BTM,94
+Coinshares Int'l,United Kingdom,CS,93
+BTCS Inc,Unknown,BTCS,90
+DigiHost,Canada,377030.KQ,88
 Yuxing,China,8005.HK,78
-Winland Holdings,USA,WELX,77
-FRMO,USA,FRMO,63
-Cathedra Bitcoin,Canada,CBIT,51
+Winland Holdings,Unknown,WELY,77
+Matador Technologies,Canada,MATA,68
+SBC Medical Group,Japan,SBC,67
+FRMO,Unknown,FRMO,63
+Atai Life Sciences,Germany,ATAI,58
+Cathedra Bitcoin,Canada,CBIT,52
 Mogo Inc.,Canada,MOGO,50
-WonderFi,Canada,WNDR,47
-Linkong Interactive,China,8267.HK,44
-The Blockchain Group,France,ALBTG,40
+Meliuz,Brazil,CASH3,46
+Linekong Interactive,China,8267.HK,44
+WonderFi,Canada,WNDR,39
 Sato Technologies,Canada,CCPUF,36
-OneMedNet,USA,ONMD,34
-Matador Technologies,Canada,MATA,29
+OneMedNet,United States,ONMD,34
 Kontrol Technologies,Canada,KNR,25
-Vinarz,UK,BTC.AQ,24
+Vinanz,United Kingdom,BTC.AQ,24
+Thumzup Media,Unknown,TZUP,19
+HK Asia Holdings,China,1723.HK,19
+Jetking,India,JETKINGQ,15
+Sphere 3D,Unknown,ANY,15
 NameSilo,Canada,URL.CN,14
-Jetking,India,JETKINGQ,12
-Bitcoin Depot,USA,BTM,10
-Intesa Sanpaolo,Italy,ISP.MI,11
-Globant,Argentina,GLOB,10
-Thumzup Media,USA,TZUP,10
