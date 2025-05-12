@@ -1,76 +1,83 @@
 Company,Country,Ticker,Number of Bitcoin
 
-Strategy,Unknown,MSTR,555450
-Marathon Digital,Unknown,MARA,47700
-Riot Platforms,Unknown,RIOT,19223
-Cleanspark,Unknown,CLSK,11869
-Tesla,Unknown,TSLA,11509
-Hut 8,Unknown,HUT,10264
-Coinbase,Unknown,COIN,9480
+Strategy,USA,MSTR,555450
+Marathon Digital,USA,MARA,48237
+TwentyOne,USA,CEP/XTI,31500
+Riot Platforms,USA,RIOT,19211
+Cleanspark,USA,CLSK,11869
+Tesla,USA,TSLA,11509
+Hut 8,USA,HUT,10264
+Coinbase,USA,COIN,9480
 Galaxy Digital,Canada,GLXY,8994
-Block (Square),Unknown,XYX,8485
-Metaplanet,Japan,3350,5555
+Block (Square),USA,XYZ,8485
+Metaplanet,Japan,3350,6796
+Semler Scientific,USA,SMLR,3634
 Bitcoin Group SE,Germany,BTGGF,3605
 Boyaa,China,0434.HK,3350
-Semler Scientific,Unknown,SMLR,3634
-Cango,Unknown,CANG,2475
-Hive Digital,Unknown,HIVE,2201
-Exodus,Unknown,EXOD,1900
-BitFuFu,Unknown,FUFU,1800
+Cango,China,CANG,2960
+Hive Digital,USA,HIVE,2201
+Exodus,USA,EXOD,1900
+BitFU,Japan,FUFU,1847
 Nexon,Japan,NEXOF,1717
-Fold,Unknown,FLD,1485
-Canaan,China,CAN,1355
-Bitdeer,Unknown,BTDR,1173
-Broker Group,Canada,BITF,1150
-Bitfarms,Canada,BITF,1093
-Cipher Mining,Unknown,CIFR,1034
-Core Scientific,Unknown,CORZ,1001
-Ming Shing Group,Unknown,MSW,833
-Bit Digital,Unknown,BTBT,769
+Fold,USA,FLD,1485
+Canaan,China,CAN,1408
+Bitdeer,Singapore,BTDR,1234
+Brooker Group,Thailand,BROOK,1150
+Core Scientific,USA,CORZ,1146
+Bitfarms,Canada,BITF,1005
+Cipher Mining,USA,CIFR,855
+Ming Shing Group,USA,MSW,833
+Bit Digital,USA,BTBT,769
 Aker ASA,Norway,AKER,754
-SOS,Unknown,SOS,675
-KULR Technology,Unknown,KULR,716
-The Block Group,Unknown,ALTBG,620
+SOS,China,SOS,675
+KULR Ltd,USA,KULR,668
+The Blockchain Group,France,ALTBG,620
 Remixpoint,Japan,3825.JP,616
-Samara Asset Group,Unknown,SRAG,525
-Jasmine International,Thailand,JAS.BK,506
-DMG Blockchain Partners,Canada,DMGI,458
-Alliance Resource Partners,Unknown,ARLP,457
-Genius Group,Unknown,GNS,440
-MercadoLibre,Argentina,MELI,413
-Nano Labs,Unknown,NA,400
-Neptune Digital Assets,Canada,NPTF,376
-Net Holding A. Sirketi,Turkey,3350.T,352
+Saraga Asset,Germany,SRAG,525
+Jasmine International,Germany,JAS.BK,506
+Alliance Resource Partners,USA,ARLP,482
+DMG Blockchain,Canada,DMGI,458
+Genius Group,Singapore,GNS,440
+Mercadolibre,Argentina,MELI,413
+Neptune Digital Assets,Canada,NPTF,401
+Nano Labs,China,NA,400
+Net Holdings A. Sirketi,Turkey,NTHOL,352
+The 9 Limited,China,NCTY,285
 Advanced Bitcoin Tech,Germany,ABT,254
-weMade,South Korea,112040.KQ,223
-DeFi Technologies,Unknown,DEFTF,209
-Rumble,Unknown,RUM,188
-LM Funding America,Unknown,LMFA,166
+WeMade,South Korea,112040.KQ,223
+DEFI Technologies,Canada,DEFF,209
+Rumble,USA,RUM,188
 LQwD FinTech,Canada,LQWDF,161
+LM Funding America,USA,LMFA,160
+Phoenix GROUP,United Arab Emirates,PHX,131
+BitMax,Kuwait,3773030.KQ,125
 Neowiz Holdings,South Korea,042420.KQ,123
 DigitalX,Australia,DGGXF,115
-BIGG Digital Assets,Canada,BBKCF,101
-Bitcoin Depot,Unknown,BTM,94
-Coinshares Int'l,United Kingdom,CS,93
-BTCS Inc,Unknown,BTCS,90
-DigiHost,Canada,377030.KQ,88
+BIGG Digital Assets,Canada,BBKCF,68
+Bitcoin Depot,USA,BTM,94
+SBI SHARES Int'l,USA,CS.ST,93
+VCS Inc,Canada,BTCS,90
+Dighost Technologies,Canada,DGHI,81
 Yuxing,China,8005.HK,78
-Winland Holdings,Unknown,WELY,77
-Matador Technologies,Canada,MATA,68
-SBC Medical Group,Japan,SBC,67
-FRMO,Unknown,FRMO,63
+Winland Holdings,USA,WELX,77
+Matador Technologies,USA,MATA,68
+SBC Medical Group,USA,SBC,67
+FRMO,USA,FRMO,63
 Atai Life Sciences,Germany,ATAI,58
-Cathedra Bitcoin,Canada,CBIT,52
+Catherine Bitcoin,Germany,CBIT,52
+ANAP Holdings,Japan,3189.T,51
 Mogo Inc.,Canada,MOGO,50
-Meliuz,Brazil,CASH3,46
+Meluz,Brazil,CASH3,46
 Linekong Interactive,China,8267.HK,44
 WonderFi,Canada,WNDR,39
 Sato Technologies,Canada,CCPUF,36
-OneMedNet,United States,ONMD,34
+OneMedNet,USA,ONMD,34
+HK Asia Holdings,Canada,1723.HK,29
 Kontrol Technologies,Canada,KNR,25
-Vinanz,United Kingdom,BTC.AQ,24
-Thumzup Media,Unknown,TZUP,19
-HK Asia Holdings,China,1723.HK,19
-Jetking,India,JETKINGQ,15
-Sphere 3D,Unknown,ANY,15
+Vranz,British Virgin Islands,BTC.AQ,24
+Value Creation,Japan,9238.T,24
+Thumzup Media,USA,TZUP,19
+BIT Mining,USA,BTCM,19
+Byte 3D,USA,ANY,15
+JetKingQ,India,JetKingQ,15
 NameSilo,Canada,URL.CN,14
