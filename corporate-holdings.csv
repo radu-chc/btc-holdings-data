@@ -1,83 +1,86 @@
 Company,Country,Ticker,Number of Bitcoin
-
 Strategy,USA,MSTR,576230
 Marathon Digital,USA,MARA,48237
-TwentyOne,USA,CEP/XTI,31500
-Riot Platforms,USA,RIOT,19211
-Cleanspark,USA,CLSK,11869
+TwentyOne,USA,CEP/XI,36312
+RIOT Platforms,USA,RIOT,19211
+Galaxy Digital,USA,GLXY,12840
+Cleanspark,USA,CLSK,12101
 Tesla,USA,TSLA,11509
 Hut 8,USA,HUT,10264
-Coinbase,USA,COIN,9480
-Galaxy Digital,Canada,GLXY,8994
-Block (Square),USA,XYZ,8485
+Coinbase,USA,COIN,9267
+BLOCK (SQUARE),USA,XYZ,8584
 Metaplanet,Japan,3350,7800
-Semler Scientific,USA,SMLR,3634
-Bitcoin Group SE,Germany,BTGGF,3605
-Boyaa,China,0434.HK,3350
-Cango,China,CANG,2960
-Hive Digital,USA,HIVE,2201
-Exodus,USA,EXOD,1900
-BitFU,Japan,FUFU,1847
+Nextechnology Hldgs,USA,NXTT,5833
+Semler Scientific,USA,SMLR,3808
+Bitcoin Group SE,Germany,BTGFF,3605
+Boyaa,USA,0434.HK,3350
+Cango,China,CANG,3181
+Exro,USA,EXOD,2011
+Bitfufu,Singapore,FUFU,1908
 Nexon,Japan,NEXOF,1717
-Fold,USA,FLD,1485
-Canaan,China,CAN,1408
-Bitdeer,Singapore,BTDR,1234
-Brooker Group,Thailand,BROOK,1150
-Core Scientific,USA,CORZ,1146
-Bitfarms,Canada,BITF,1005
+Fold,USA,FLD,1490
+Canaan,USA,CAN,1408
+Bitdeer,Singapore,BTDR,1285
+Core Scientific,USA,CORZ,1250
+Bitfarms,Canada,BITF,1166
+Brooker Group,USA,BROOK,1150
 Cipher Mining,USA,CIFR,855
 Ming Shing Group,USA,MSW,833
-Bit Digital,USA,BTBT,769
 Aker ASA,Norway,AKER,754
-SOS,China,SOS,675
-KULR Ltd,USA,KULR,668
+KULR Technology Group,USA,KULR,716
+SOS,USA,SOS,675
 The Blockchain Group,France,ALTBG,620
 Remixpoint,Japan,3825.JP,616
-Saraga Asset,Germany,SRAG,525
-Jasmine International,Germany,JAS.BK,506
+Hive Digital,Canada,HIVE,610
+MercadoLibre,Argentina,MELI,570
+Samara Asset Group,USA,SRAG,525
+Jasmine International,Thailand,JAS.BK,506
 Alliance Resource Partners,USA,ARLP,482
 DMG Blockchain,Canada,DMGI,458
-Genius Group,Singapore,GNS,440
-Mercadolibre,Argentina,MELI,413
+Sirius Group,USA,GNS,440
+BTBT,USA,BTBT,417
 Neptune Digital Assets,Canada,NPTF,401
-Nano Labs,China,NA,400
-Net Holdings A. Sirketi,Turkey,NTHOL,352
-The 9 Limited,China,NCTY,285
+Nano Labs,USA,NA,400
+Net Holding A. Sirketi,Turkey,NTHOL,352
+Mellu9 The Limited,Brazil,CASH3,320
+NCTY,USA,NCTY,285
 Advanced Bitcoin Tech,Germany,ABT,254
+Coinshares Int’l,UK,CS.ST,236
+Virtu Financial,USA,VIRT,235
 WeMade,South Korea,112040.KQ,223
-DEFI Technologies,Canada,DEFF,209
-Rumble,USA,RUM,188
-LQwD FinTech,Canada,LQWDF,161
-LM Funding America,USA,LMFA,160
-Phoenix GROUP,United Arab Emirates,PHX,131
-BitMax,Kuwait,3773030.KQ,125
+Rumble,USA,RUM,210
+DEFI Technologies,Canada,DEFI,209
+LM Funding America,USA,LMFA,165
+BitMax,USA,377030.KQ,165
+Lqwd FinTech,Canada,LQWD,161
+Phoenix Group,UAE,PHX,131
+Horizon Kinetics,USA,HKHC,131
 Neowiz Holdings,South Korea,042420.KQ,123
 DigitalX,Australia,DGGXF,115
-BIGG Digital Assets,Canada,BBKCF,68
 Bitcoin Depot,USA,BTM,94
-SBI SHARES Int'l,USA,CS.ST,93
-VCS Inc,Canada,BTCS,90
-Dighost Technologies,Canada,DGHI,81
-Yuxing,China,8005.HK,78
+Bitcoins Inc,USA,BTCS,90
+Greencidge Generation,USA,GREE,85
+Dighost Technology,Canada,DGHI,81
+Yuxing,USA,8005.HK,78
 Winland Holdings,USA,WELX,77
-Matador Technologies,USA,MATA,68
+ANAP Holdings,Japan,3189.T,70
+BIGG Digital Assets,Canada,BBKCF,68
+Matador Technologies,Canada,MATA,68
 SBC Medical Group,USA,SBC,67
 FRMO,USA,FRMO,63
 Atai Life Sciences,Germany,ATAI,58
-Catherine Bitcoin,Germany,CBIT,52
-ANAP Holdings,Japan,3189.T,51
+Cathedra Bitcoin,Canada,CBIT,52
 Mogo Inc.,Canada,MOGO,50
-Meluz,Brazil,CASH3,46
-Linekong Interactive,China,8267.HK,44
-WonderFi,Canada,WNDR,39
-Sato Technologies,Canada,CCPUF,36
+Linekong Interactive,USA,8267.HK,44
+Vinanz,UK,BTC.AQ,40
+Sato Technologies,Japan,CCPUF,36
 OneMedNet,USA,ONMD,34
-HK Asia Holdings,Canada,1723.HK,29
+HK Asia Holdings,Hong Kong,1723.HK,29
 Kontrol Technologies,Canada,KNR,25
-Vranz,British Virgin Islands,BTC.AQ,24
-Value Creation,Japan,9238.T,24
-Thumzup Media,USA,TZUP,19
-BIT Mining,USA,BTCM,19
-Byte 3D,USA,ANY,15
-JetKingQ,India,JetKingQ,15
-NameSilo,Canada,URL.CN,14
+Value Creation,USA,9238.T,24
+Coininsillium Group,UK,COIN.AQ,21
+Investview,USA,INVU,20
+Smarter Web,USA,SWC.AQ,19
+Buzz Mining,USA,BTCM,19
+BIT Mining,India,JETKINGQ,15
+JETKINGQ,India,JETKINGQ,800.056
