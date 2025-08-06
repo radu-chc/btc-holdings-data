@@ -1,99 +1,101 @@
 Company,Country,Ticker,Number of Bitcoin
-Strategy,USA,MSTR,597325
-Marathon Digital,USA,MARA,48237
-TwentyOne,USA,CEP/XXI,36312
-Riot Platforms,USA,RIOT,19211
-Metaplanet,Japan,3350.T,13350
+Strategy,USA,MSTR,628791
+Marathon Digital,USA,MARA,50639
+TowerOne,USA,CEP,43514
+Bitcoin Standard Treasury,USA,CEPO,30021
+Riot Platforms,USA,RIOT,19273
+Metaplanet,Japan,3350.T,17595
+Trump Media & Tech,USA,DJT,15000
 Galaxy Digital,USA,GLXY,12830
-Cleanspark,USA,CLSK,12101
-TESLA,USA,TSLA,11509
+Cleanspark,USA,CLSK,12608
+Coinbase,USA,COIN,11776
+Tesla,USA,TSLA,11509
 Hut 8,USA,HUT,10264
-Coinbase,USA,COIN,9267
-Block (Square),USA,XYX,8584
-Next Technology Hldgs,USA,NXTT,5833
+Block (Square),USA,XYZ,8584
+Next Technology Hldgs,China,NXTT,5833
+Semler Scientific,USA,SMLR,5021
+ProCoin BTC,USA,CCON,4950
 GameStop,USA,GME,4710
-Semler Scientific,USA,SMLR,4264
-Bitcoin Group SE,Germany,CANG,3605
-Voyager,Britain,0434.HK,3350
-Microcloud Hologram,China,0434.HK,3350
-Exodus,USA,EXOD,2011
-BitFUFU,USA,FUFU,1908
-Nexon,Japan,NEXOF-,1717
+Cango,China,CANG,4530
+Empery Digital,USA,EMPD,3913
+Bitcoin Group SE,Germany,BTGGF,3605
+Boyaa,China,0434.HK,3350
+Sequans,France,SQNS,3157
+Microcloud Hologram,China,HOLO,2353
+Smarter Web,UK,SWC.AQ,2050
+Exodus,USA,EXOD,2038
+The Blockchain Group,France,ALTBG,2013
+BitFuFU,Singapore,FUFU,1792
+Nexon,Japan,NEXOF,1717
+Bitdeer,Singapore,BTDR,1676
 Fold,USA,FLD,1490
-Canaan,China,CAN,1424
-Bitdeer,Singapore,BTDR,1310
-Core Scientific,USA,CORZ,1300
+Canaan,China,CAN,1484
+Remixpoint,Japan,3825.T,1168
 Bitfarms,Canada,BITF,1166
-Brooker Group,Thailand,BROOK,1150
-Cipher Mining,USA,CIFR,847
-The Blockchain Group,France,ALTBG,847
-Ming Shing Group,China,MSW,833
-KULR Technology,USA,KULR,800
-Aker ASA,Norway,AKR,754
-Remixpoint,Japan,3825.T,680
-SOS Ltd,China,SOS,675
-Hive Digital,Canada,HIVE,610
+Brooker Group,Singapore,BROOK,1150
+Cipher Mining,USA,CIFR,1063
+KULR Technology,USA,KULR,1021
+Nano Labs,China,NA,1000
+Core Scientific,USA,CORZ,977
+Figma,USA,FIG,838
+Ming Shing Group,Hong Kong,MSW,833
+ADAP Holdings,USA,3199.T,831
+SOS Ltd,China,SOS,802
+Bitcoin Treasury Corp,Canada,BTCT,771
+Aker ASA,Norway,AKER,754
+H100 Group AB,Sweden,H100,702
+GMO Internet Group,Japan,4784.T,680
+Hive Digital,USA,HIVE,610
+Meliuz,Brazil,CASH3,595
 MercadoLibre,Argentina,MELI,570
-Samara Asset Group,Germany,SRAG,525
+Samara Asset Group,Russia,SRAG,525
+Phoenix Group,UAE,PHX,514
+Alliance Resource,USA,ARLP,512
 Jasmine International,Thailand,JAS.BK,506
-Alliance Resource,USA,ARLP,482
-Bit Digital,USA,BTBT,417
-Neptune Digital Assets,Canada,NPPTF,401
-Nano Labs,China,NA,400
+DigitalX,Australia,DGGXF,500
+BitNile,South Korea,377030.KQ,500
+Virtu Financial,USA,VIRT,410
+Neptune Digital Assets,Canada,NPPTF,404
+DDC Enterprises,China,DDC,368
 Net Holding A. Sirketi,Turkey,NTHOL,352
-DMG Blockchain,Canada,DMGI,351
-Mellux,Brazil,CASH3,320
-DigitalX,Australia,DGGXF,320
-The9 LIMITED,China,NCTY,285
-Advanced Bitcoin Tech,Germany,ABT,254
-Coinshares Int’l,Sweden,CS.ST,236
-Viru Financial Int’l,USA,VIRT,235
+DMG Blockchain,Canada,DMGI,341
+The9 Limited,China,NCTY,285
+3U Holding AB,Germany,UUU,258
+Advanced Bitcoin Tech,USA,ABT,254
+Phoenix Digital Assets,UK,PNIX.AQ,247
+LQWD Technologies,Canada,LQWDF,238
+Coinshares Int'l,UK,CS.ST,236
+Hilbert Group,Sweden,HILB,233
 WeMade,South Korea,112040.KQ,223
 Rumble,USA,RUM,210
-DEFI Technologies,Canada,DEFI,209
-BitMax,USA,37030.KQ,194
-LQWD Fin Tech,Canada,LQWDF,161
-LM Funding America,USA,LMFA,148
-Phoenix Group,UAE,PHX,131
-Horizon Kinetics,USA,HKHC,131
+DEFI Technologies,Canada,DEFT,209
+Genius Group,Singapore,GNS,200
+BitMine Immersion,USA,BMNR,193
+Prenetics,Hong Kong,PRE,187
+Consilium Group,UK,COIN.AQ,182
+Bitcoin Treasury Capital,USA,BTC,166
+Convario,Germany,G574.T,165
+LM Funding America,USA,LMFA,155
+Sixty Six Capital,Canada,SIX,148
+Horizon Kinetics,USA,KKHC,131
+K33 AB,Norway,K33,126
+BEAT Holdings,Japan,9399.T,123
 Neowiz Holdings,South Korea,042420.KQ,123
-ANAP Holdings,Japan,3189.T,103
-DDC Enterprises,China,DDC,100
 Bitcoin Depot,USA,BTM,100
-BTCS Inc,USA,BTCS,90
-Greenidge Generation,USA,GREE,85
-Genius Group,Singapore,GNS,85
-Smarter Web,Britain,SWC.AQ,83
-Digi Power X,Japan,DGGX,81
+Atal Life Sciences,USA,ATAL,100
+K Wave Media,South Korea,KWM,88
+Vanadi Coffee,Germany,VANA.MC,85
+Grenidge,USA,GREE,85
+London Bitcoin Co.,UK,BTCL,85
+Belgravia Hartford,Canada,BLGV,83
+Digi Power X,USA,DGXX,81
+Gumi,Japan,3903.T,80
+Yuxing,Hong Kong,8005.HK,78
 Winland Holdings,USA,WELX,77
+Matador Technologies,Canada,MATA,77
 SBC Medical Group,USA,SBC,72
-BIGG Digital Assets,Canada,BBKCF,68
-Matador Tech,USA,MATA,68
+Vaultz Capital,UK,V3TC,70
 FRMO,USA,FRMO,63
-Atal Life Sciences,Germany,FTAI,58
-Cathedra Bitcoin,Canada,CBIT,52
-Micro Algo,USA,MLGO,50
-Mogo Inc,Canada,MOGO,50
-Linekong,China,8267.HK,44
-WonderFi,Canada,WNDR,40
-Vinanz,Britain,BTC.AQ,40
-Sato Technologies,Canada,CCPUF,36
-HK Asia Holdings,Hong Kong,1723.HK,29
-AT Fusion Tech,Japan,254A.T,25
-Control Tech,Canada,KNR,25
-Value Creation,Japan,9238.T,24
-Sphere 3D,USA,ANY,22
-Nakamoto,Japan,NAKA,21
-Jetking,India,JETKINGQ,21
-Investview,USA,INVU,20
-Thumzup Media,USA,TZUP,19
-BIT Mining,USA,BTCM,19
-Bitcoin Well,Canada,BTCW.V,18
-Coinsilium Group,Britain,COIN.AQ,18
-Globant,Argentina,GLOB,15
-Intechains Group,China,ICG,13
-Intesa Sanpaolo,Italy,ISP.MI,11
-OneMedNet,USA,ONMD,10
-Walnut Capital,Hong Kong,00905.HK,10
-Enish,Japan,3667.T,8
-Gumi,Japan,3903.T,7
+Micro Algo,China,MALGO,50
+Mogo Inc.,Canada,MOGO,50
+RSXYZ,Thailand,XYZ.BK,50
